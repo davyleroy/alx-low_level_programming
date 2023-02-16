@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 /**
- * Start main - Entry point
+ * main - Entry point of my program
+ * This function displays the size of various data types in bytes
  * Return: should always return 0 (Success)
  */
 
