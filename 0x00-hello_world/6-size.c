@@ -4,6 +4,7 @@
  * Start main - Entry point
  * Return: should always return 0 (Success)
  */
+
 int main(void)
 {
 	char a;
