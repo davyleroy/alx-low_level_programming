@@ -1,7 +1,7 @@
 nes (41 sloc)  1023 Bytes
 /*
  * File: 9-insert_nodeint.c
- * Auth: Brennan D Baraban
+ * Auth: Davy leroy
  */
 
 #include "lists.h"
